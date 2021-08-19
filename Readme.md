@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <p>
 <pre>
 git clone https://github.com/SQADIRKVM/AutoFilterBotV1
-cd Adv-Auto-Filter-Bot-V2
+cd AutoFilterBotV1
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
