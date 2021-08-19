@@ -16,8 +16,8 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> This Bot Only Works In Edu.com Group
+-> You can't add me to any group
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
