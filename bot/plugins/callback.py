@@ -1642,7 +1642,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/EDU_XOM'),
             InlineKeyboardButton('Source Code 🧾', url ='https://t.me/Uvva_IppoKittum_Nokkiyirunno')
         ],[
-            InlineKeyboardButton('Whatsapp Group, url='https://chat.whatsapp.com/LiGdzriffcs9ZTXt1pM4ZN')
+            InlineKeyboardButton('Whatsapp Group', url='https://chat.whatsapp.com/LiGdzriffcs9ZTXt1pM4ZN')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
