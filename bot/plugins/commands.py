@@ -33,7 +33,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Developers', url="https://t.me/EDU_XOM"
                                 )
                         ]
                     ]
@@ -45,10 +45,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Channel', url='https://t.me/eduxcom'),
-        InlineKeyboardButton('Whatsapp Group', url ='https://t.me/Uvva_IppoKittum_Nokkiyirunno')
+        InlineKeyboardButton('Channel', url='https://t.me/eduxcom_tcl'),
+        InlineKeyboardButton('Whatsapp Group', url ='https://chat.whatsapp.com/LiGdzriffcs9ZTXt1pM4ZN')
     ],[
-        InlineKeyboardButton('Telegram', url='https://t.me/eduxcom')
+        InlineKeyboardButton('Telegram Group', url='https://t.me/eduxcom_tel')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
